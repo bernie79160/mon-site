@@ -4,3 +4,10 @@ h1{color: darkgreen;
 p{
     background-color: aqua;
 }
+
+div p{
+background-color: red;
+color: #fff;
+
+
+}
